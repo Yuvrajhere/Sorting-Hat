@@ -1,0 +1,42 @@
+{
+  "files": {
+    "main.css": "/sorting-hat/static/css/main.90673b1e.chunk.css",
+    "main.js": "/sorting-hat/static/js/main.18e4667a.chunk.js",
+    "main.js.map": "/sorting-hat/static/js/main.18e4667a.chunk.js.map",
+    "runtime-main.js": "/sorting-hat/static/js/runtime-main.6d4083a9.js",
+    "runtime-main.js.map": "/sorting-hat/static/js/runtime-main.6d4083a9.js.map",
+    "static/js/2.96293cc3.chunk.js": "/sorting-hat/static/js/2.96293cc3.chunk.js",
+    "static/js/2.96293cc3.chunk.js.map": "/sorting-hat/static/js/2.96293cc3.chunk.js.map",
+    "index.html": "/sorting-hat/index.html",
+    "precache-manifest.13242da8dd821d327d067ee98ddc12b5.js": "/sorting-hat/precache-manifest.13242da8dd821d327d067ee98ddc12b5.js",
+    "service-worker.js": "/sorting-hat/service-worker.js",
+    "static/css/main.90673b1e.chunk.css.map": "/sorting-hat/static/css/main.90673b1e.chunk.css.map",
+    "static/js/2.96293cc3.chunk.js.LICENSE.txt": "/sorting-hat/static/js/2.96293cc3.chunk.js.LICENSE.txt",
+    "static/media/Albus-Dumbledore.jpg": "/sorting-hat/static/media/Albus-Dumbledore.c54e5c28.jpg",
+    "static/media/Artemisia-Lufkin.png": "/sorting-hat/static/media/Artemisia-Lufkin.08b5b125.png",
+    "static/media/Draco-Malfoy.png": "/sorting-hat/static/media/Draco-Malfoy.ac0e148f.png",
+    "static/media/Gilderoy-Lockheart.png": "/sorting-hat/static/media/Gilderoy-Lockheart.e38406ba.png",
+    "static/media/Harry-Potter.jpg": "/sorting-hat/static/media/Harry-Potter.73e299e8.jpg",
+    "static/media/Hengist-Of-Woodcroft.jpg": "/sorting-hat/static/media/Hengist-Of-Woodcroft.ef7180e5.jpg",
+    "static/media/Home.css": "/sorting-hat/static/media/dumbledore-protrait-miniature.05d6d134.jpg",
+    "static/media/Ignatia-Wildsmith.png": "/sorting-hat/static/media/Ignatia-Wildsmith.ef483545.png",
+    "static/media/Luna-Lovegood.jpg": "/sorting-hat/static/media/Luna-Lovegood.b962b424.jpg",
+    "static/media/Merlin.jpg": "/sorting-hat/static/media/Merlin.51f22f8c.jpg",
+    "static/media/Minerva-McGonagall.jpg": "/sorting-hat/static/media/Minerva-McGonagall.64cd452e.jpg",
+    "static/media/Newt-Scamander.png": "/sorting-hat/static/media/Newt-Scamander.1d7db99a.png",
+    "static/media/Tom-Riddle.jpg": "/sorting-hat/static/media/Tom-Riddle.57e0b7d3.jpg",
+    "static/media/github.png": "/sorting-hat/static/media/github.613b3b9b.png",
+    "static/media/gryffindor.png": "/sorting-hat/static/media/gryffindor.7dd66c53.png",
+    "static/media/hufflepuff.png": "/sorting-hat/static/media/hufflepuff.d9272efa.png",
+    "static/media/instagram.png": "/sorting-hat/static/media/instagram.37b6c69a.png",
+    "static/media/ravenclaw.png": "/sorting-hat/static/media/ravenclaw.59559226.png",
+    "static/media/slytherin.png": "/sorting-hat/static/media/slytherin.59f8fcf5.png",
+    "static/media/twitter.png": "/sorting-hat/static/media/twitter.a01b1604.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6d4083a9.js",
+    "static/js/2.96293cc3.chunk.js",
+    "static/css/main.90673b1e.chunk.css",
+    "static/js/main.18e4667a.chunk.js"
+  ]
+}
