@@ -17,7 +17,7 @@ const Result = props => {
           </div>
           <div className = "showcase-part-2">
             <p>{props.houseInfo.desc}</p>
-            <Link to="/"><button>Home page</button></Link>
+            <Link to="/sorting-hat"><button>Home page</button></Link>
           </div>
         </div>
 
@@ -47,7 +47,7 @@ const Result = props => {
                   <p>Thank you for visiting the page. Code availabe at <a href="https://github.com/Yuvrajhere/sorting-hat">github</a></p>
                   <p>You can send feedback or contact me on <a href="mailto:yuvrajisbest13@gmail.com">this email!</a></p>
                 </div>
-                <a href="/"><img className = "footer-content-1-right" src="https://icons-for-free.com/iconfiles/png/512/hat+horror+magic+scary+witch+icon-1320183478533990834.png" alt = "Sorting hat"/></a>
+                <a href="/sorting-hat"><img className = "footer-content-1-right" src="https://icons-for-free.com/iconfiles/png/512/hat+horror+magic+scary+witch+icon-1320183478533990834.png" alt = "Sorting hat"/></a>
               </div>
               <div className ="footer-content-2">
                 <div className = "footer-content-2-left">

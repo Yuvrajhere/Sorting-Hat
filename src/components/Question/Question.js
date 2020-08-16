@@ -57,7 +57,7 @@ class Question extends React.Component {
 
         {(no <= 5) ? 
           <button onClick = {this.updateSelected}> Okay </button> : 
-          <Link to="/result"><button onClick = {this.updateLastSelected}>Done</button></Link>}
+          <Link to="/sorting-hat/result"><button onClick = {this.updateLastSelected}>Done</button></Link>}
       </form>
     );
   }

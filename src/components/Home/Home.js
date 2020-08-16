@@ -13,7 +13,7 @@ const Home = props => {
         <div className = "home-showcase">
           <p className = "quote-para"><q className = "quote">It is our choices, Harry, that show us who we truly are, far more than our abilities.</q><br/>
           <span>—Albus Dumbledore</span></p>
-          <Link to="/sorting-page">
+          <Link to="/sorting-hat/sorting-page">
             <button className = "btn initial-btn">Sorting Hat</button>
           </Link>
         </div>
@@ -57,7 +57,7 @@ const Home = props => {
                   <p>Thank you for visiting the page. Code availabe at <a href="https://github.com/Yuvrajhere/sorting-hat">github</a></p>
                   <p>You can send feedback or contact me on <a href="mailto:yuvrajisbest13@gmail.com">this email!</a></p>
                 </div>
-                <a href="/"><img className = "home-footer-content-1-right" src="https://icons-for-free.com/iconfiles/png/512/hat+horror+magic+scary+witch+icon-1320183478533990834.png" alt = "Sorting hat"/></a>
+                <a href="/sorting-hat"><img className = "home-footer-content-1-right" src="https://icons-for-free.com/iconfiles/png/512/hat+horror+magic+scary+witch+icon-1320183478533990834.png" alt = "Sorting hat"/></a>
               </div>
               <div className ="home-footer-content-2">
                 <div className = "home-footer-content-2-left">
