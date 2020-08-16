@@ -1,3 +1,5 @@
+## Site is published at https://yuvrajhere.github.io/sorting-hat/
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
