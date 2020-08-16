@@ -1,0 +1,82 @@
+.Question {
+  padding: 10vh 22vw;
+  text-align: left;
+}
+
+.Question h1 {
+  font-size: 40px;
+  text-align: justify;
+  margin-bottom: 2vh;
+}
+
+.Question div {
+  margin: auto 1vw;
+  text-align: left;
+  color: white;
+  
+}
+
+.Question div:hover {
+  color: #8A0707;
+}
+
+.Question input {
+  transform: scale(1.5);
+  margin-right: 2vw;
+  cursor: pointer;
+}
+
+.Question label {
+  text-align: left;
+  font-size: 20px;
+  cursor: pointer;
+}
+
+.Question button {
+  margin: 8vh auto auto 1vw;
+  font-size: 20px;
+  cursor: pointer;
+  border: none;
+  padding: 2vh 3vw;
+  background-color: white;
+  color: #8A0707;
+  border-radius: 40px;
+  box-shadow: #8A0707 0px 0px  10px 1px;
+}
+
+.Question button:hover {
+  background-color: #8A0707;
+  color: white;
+  box-shadow: #8A0707 0px 0px  20px 2px;
+}
+
+@media only screen and (max-width: 600px) {
+  .Question {
+    padding: 8vh 10vw;
+  }
+  
+  .Question h1 {
+    font-size: 30px;
+    text-align: left;
+    margin-bottom: 2vh;
+  }
+  
+  .Question div {
+    text-align: left;
+  }
+  
+  .Question input {
+    transform: scale(1);
+  }
+  
+  .Question label {
+    font-size: 18px;
+  }
+  
+  .Question button {
+    margin: 4vh auto auto 1vw;
+    font-size: 12px;
+    padding: 1vh 6vw;
+  }
+
+}
