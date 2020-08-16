@@ -44,7 +44,7 @@ const Result = props => {
               <div className ="footer-content-1">
                 <div home-footer-content-1-left>
                   <h3>Sorting Hat</h3>
-                  <p>Thank you for visiting the page. Code availabe at <a href="github.com">github</a></p>
+                  <p>Thank you for visiting the page. Code availabe at <a href="https://github.com/Yuvrajhere/sorting-hat">github</a></p>
                   <p>You can send feedback or contact me on <a href="mailto:yuvrajisbest13@gmail.com">this email!</a></p>
                 </div>
                 <a href="/"><img className = "footer-content-1-right" src="https://icons-for-free.com/iconfiles/png/512/hat+horror+magic+scary+witch+icon-1320183478533990834.png" alt = "Sorting hat"/></a>
